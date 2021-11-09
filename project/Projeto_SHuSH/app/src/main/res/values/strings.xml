@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SHuSH</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="selected_item">Selected item:</string>
+    <string-array name="Filter">
+        <item>Sem filtro</item>
+        <item>Filtro por data</item>
+        <item>Filtro por localização</item>
+        <item>Filtro entre datas</item>
+    </string-array>
+</resources>
